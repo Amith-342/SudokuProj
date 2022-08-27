@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+
+
+.first{
+    position: absolute;
+    left:30%;
+    
+    background-color: aliceblue;
+    width: 350px;
+    height: 350px;
+    border-color: white;
+    border-width: 4px;
+    border-radius: 6px;
+    padding:4px 2px 2px 4px;
+    
+}
+
+.tab{
+    background-color: aquamarine;
+    color:black;
+    border: 2px solid green;
+    border-collapse: collapse;
+    width: 350px;
+    height: 350px;
+    padding:0;
+}
+
+
+
+table,tr,td{
+    border:1px solid green;
+    padding: 0;
+}
+.tab2{
+    margin:0;
+}
+
